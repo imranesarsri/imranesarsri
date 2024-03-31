@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Imrane sarsri</h1>
 <h3 align="center">Full stack developer</h3>
 
-<p align="left"> <img src="https://imranesarsri.github.io/portfolio/" alt="imranesarsri" /> </p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imranesarsri&label=Profile%20views&color=0e75b6&style=flat" alt="imranesarsri" /> </p>
+<p align="left"> <a href="https://imranesarsri.github.io/portfolio/"> <img src="https://komarev.com/ghpvc/?username=imranesarsri&label=Profile%20views&color=0e75b6&style=flat" alt="imranesarsri" /></a> </p>
 
 
 - 🔭 I’m currently working on [insertion professionnelle](https://github.com/imranesarsri/SoliLms_insertion_professionnelle)
