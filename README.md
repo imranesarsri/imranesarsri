@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://imranesarsri.github.io/portfolio/" alt="imranesarsri" /> </p>
 
+(<p align="left"> <img src="https://komarev.com/ghpvc/?username=imranesarsri&label=Profile%20views&color=0e75b6&style=flat" alt="imranesarsri" /> </p>)[https://imranesarsri.github.io/portfolio/]
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imranesarsri" alt="imranesarsri" /></a> </p>
 
 - 🔭 I’m currently working on [insertion professionnelle](https://github.com/imranesarsri/SoliLms_insertion_professionnelle)
