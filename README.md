@@ -3,8 +3,9 @@
 
 
 <p align="left"> <a href="https://imranesarsri.github.io/portfolio/"> <img src="https://komarev.com/ghpvc/?username=imranesarsri&label=Profile%20views&color=0e75b6&style=flat" alt="imranesarsri" /></a> </p>
-
+<a herf="https://imranesarsri.github.io/portfolio/">
 ![image](./img/competence.gif)
+</a>
 
 - 🔭 I’m currently working on [insertion professionnelle](https://github.com/imranesarsri/SoliLms_insertion_professionnelle)
 
